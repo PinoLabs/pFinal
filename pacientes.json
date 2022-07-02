@@ -1,0 +1,76 @@
+{
+    "pacientes": [
+        {
+          "nombre": "Canila Aeda",
+          "rut": "1.985.302-9" ,
+          "fechaIngreso": "29-06-2022",
+          "dias": "1285",
+          "diagnostico":"Insuficiencia renal Cronica",
+          "estado":"1"
+        },
+        {
+          "nombre": "Cristina Lopez ",
+          "rut": "10.958.250-3" ,
+          "fechaIngreso": "27-01-0001",
+          "dias": "NaN",
+          "diagnostico":"Cancer interminable",
+          "estado":"1"
+        },
+        {
+          "nombre": "Juanito Perez",
+          "rut": "10.908.322-3" ,
+          "fechaIngreso": "20-20-2000",
+          "dias": "365",
+          "diagnostico":"irritacion",
+          "estado":"2"
+        },
+        {
+          "nombre": "Manzanita",
+          "rut": "19.285.369-3" ,
+          "fechaIngreso": "12-12-2021",
+          "dias": "3000",
+          "diagnostico":"gastritis",
+          "estado":"1"
+        },
+        {
+          "nombre": "perita",
+          "rut": "19.285.369-3" ,
+          "fechaIngreso": "12-12-2021",
+          "dias": "3000",
+          "diagnostico":"exceso de pera",
+          "estado":"1"
+        },
+        {
+          "nombre": "juanita silvia toledo",
+          "rut": "19.285.369-3" ,
+          "fechaIngreso": "12-12-2021",
+          "dias": "3000",
+          "diagnostico":"ruptura de traquea",
+          "estado":"1"
+        },
+        {
+          "nombre": "elvio Lados",
+          "rut": "19.285.369-3" ,
+          "fechaIngreso": "12-12-2021",
+          "dias": "3000",
+          "diagnostico":"Trauma post Violacion",
+          "estado":"1"
+        },
+        {
+          "nombre": "Soylaa Cerda",
+          "rut": "19.285.369-3" ,
+          "fechaIngreso": "12-12-2021",
+          "dias": "3000",
+          "diagnostico":"Obesidad",
+          "estado":"1"
+        },
+        {
+          "nombre": "ElVananita",
+          "rut": "19.285.369-3" ,
+          "fechaIngreso": "12-12-2021",
+          "dias": "3000",
+          "diagnostico":"Bronquitis",
+          "estado":"1"
+        }    
+      ]
+}

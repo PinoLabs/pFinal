@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+.centro{
+    text-align: center;
+    margin: auto;
+}
+
+.w60{
+    width: 60%;
+}
+#cargarPacientes{
+    display: none;
+}
+#tabla{
+    display: none;
+}
+.medio{
+    margin-top: 15%;
+}
+#form-ingreso{
+    display: none;
+}
